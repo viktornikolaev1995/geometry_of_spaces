@@ -1,0 +1,6 @@
+lxml==4.9.2; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.5.0")
+matplotlib==3.6.2; python_version >= "3.8"
+pydantic==1.10.2; python_version >= "3.7"
+shapely==2.0.0; python_version >= "3.7"
+triangle==20220202
+xgbxml==0.0.9; python_version >= "3.6"

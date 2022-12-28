@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "geometry_of_spaces"
+version = "0.1.0"
+description = ""
+authors = ["Viktor Nikolaev <viktornicolaev1995@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+lxml = "^4.9.2"
+xgbxml = "^0.0.9"
+matplotlib = "^3.6.2"
+pydantic = "^1.10.2"
+shapely = "^2.0.0"
+triangle = "^20220202"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^6.0.0"
+isort = "^5.11.4"
+black = "^22.12.0"
+mypy = "^0.991"
+
+[tool.flake8]
+max-line-length = 112
+
+[tool.isort]
+line_length=112
+
+[tool.black]
+line-length = 112
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
