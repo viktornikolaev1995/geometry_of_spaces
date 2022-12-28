@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gbXML useSIUnitsForResults="true" temperatureUnit="C" lengthUnit="Meters" areaUnit="SquareMeters" volumeUnit="CubicMeters" version="0.37" xmlns="http://www.gbxml.org/schema">
+  <Campus id="aim0002">
+    <Location>
+      <StationId IDType="WMO">188352_2006</StationId>
+      <ZipcodeOrPostalCode>00000</ZipcodeOrPostalCode>
+      <Longitude>37.6345291</Longitude>
+      <Latitude>55.7493858</Latitude>
+      <Elevation>156.0576</Elevation>
+      <CADModelAzimuth>0</CADModelAzimuth>
+      <Name>55.7493858337402,37.6345291137695</Name>
+    </Location>
+    <Building buildingType="Office" id="aim0013">
+      <StreetAddress>55.7493858337402,37.6345291137695</StreetAddress>
+      <Area>0</Area>
+      <BuildingStorey id="aim0015">
+        <Level>153.65</Level>
+        <Name>Этаж 01</Name>
+      </BuildingStorey>
+      <Name>bldg-1</Name>
+      <Description>Extracted from Revit model.</Description>
+    </Building>
+    <Surface surfaceType="Shade" exposedToSun="true" id="aim0017">
+      <RectangularGeometry id="aim0018">
+        <Azimuth>270</Azimuth>
+        <CartesianPoint>
+          <Coordinate>-16.5321238</Coordinate>
+          <Coordinate>17.8623399</Coordinate>
+          <Coordinate>153.65</Coordinate>
+        </CartesianPoint>
+        <Tilt>90</Tilt>
+        <Width>10</Width>
+        <Height>4.6</Height>
+      </RectangularGeometry>
+      <PlanarGeometry>
+        <PolyLoop>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>17.8623399</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>17.8623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+        </PolyLoop>
+      </PlanarGeometry>
+      <CADObjectId>Basic Wall: Типовой - 200мм [982960]</CADObjectId>
+      <Name>X-S-1</Name>
+    </Surface>
+    <Surface surfaceType="Shade" exposedToSun="true" id="aim0027">
+      <RectangularGeometry id="aim0028">
+        <Azimuth>345</Azimuth>
+        <CartesianPoint>
+          <Coordinate>11.4797252</Coordinate>
+          <Coordinate>25.3680922</Coordinate>
+          <Coordinate>153.65</Coordinate>
+        </CartesianPoint>
+        <Tilt>90</Tilt>
+        <Width>29</Width>
+        <Height>4.6</Height>
+      </RectangularGeometry>
+      <PlanarGeometry>
+        <PolyLoop>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>17.8623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>17.8623399</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>25.3680922</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>25.3680922</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+        </PolyLoop>
+      </PlanarGeometry>
+      <CADObjectId>Basic Wall: Типовой - 200мм [983034]</CADObjectId>
+      <Name>X-S-2</Name>
+    </Surface>
+    <Surface surfaceType="Shade" exposedToSun="true" id="aim0037">
+      <RectangularGeometry id="aim0038">
+        <Azimuth>90</Azimuth>
+        <CartesianPoint>
+          <Coordinate>11.4797252</Coordinate>
+          <Coordinate>7.8623399</Coordinate>
+          <Coordinate>153.65</Coordinate>
+        </CartesianPoint>
+        <Tilt>90</Tilt>
+        <Width>17.5057523</Width>
+        <Height>4.6</Height>
+      </RectangularGeometry>
+      <PlanarGeometry>
+        <PolyLoop>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>25.3680922</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>25.3680922</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+        </PolyLoop>
+      </PlanarGeometry>
+      <CADObjectId>Basic Wall: Типовой - 200мм [983124]</CADObjectId>
+      <Name>X-S-3</Name>
+    </Surface>
+    <Surface surfaceType="Shade" exposedToSun="true" id="aim0047">
+      <RectangularGeometry id="aim0048">
+        <Azimuth>180</Azimuth>
+        <CartesianPoint>
+          <Coordinate>-16.5321238</Coordinate>
+          <Coordinate>7.8623399</Coordinate>
+          <Coordinate>153.65</Coordinate>
+        </CartesianPoint>
+        <Tilt>90</Tilt>
+        <Width>28.011849</Width>
+        <Height>4.6</Height>
+      </RectangularGeometry>
+      <PlanarGeometry>
+        <PolyLoop>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.4797252</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>-16.5321238</Coordinate>
+            <Coordinate>7.8623399</Coordinate>
+            <Coordinate>158.25</Coordinate>
+          </CartesianPoint>
+        </PolyLoop>
+      </PlanarGeometry>
+      <CADObjectId>Basic Wall: Типовой - 200мм [983201]</CADObjectId>
+      <Name>X-S-4</Name>
+    </Surface>
+    <Surface surfaceType="Shade" exposedToSun="true" id="aim0057">
+      <RectangularGeometry id="aim0058">
+        <Azimuth>180</Azimuth>
+        <CartesianPoint>
+          <Coordinate>-16.4321238</Coordinate>
+          <Coordinate>7.9623399</Coordinate>
+          <Coordinate>153.65</Coordinate>
+        </CartesianPoint>
+        <Tilt>0</Tilt>
+        <Width>27.811849</Width>
+        <Height>13.5493485</Height>
+      </RectangularGeometry>
+      <PlanarGeometry>
+        <PolyLoop>
+          <CartesianPoint>
+            <Coordinate>-16.4321238</Coordinate>
+            <Coordinate>7.9623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.3797252</Coordinate>
+            <Coordinate>7.9623399</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>11.3797252</Coordinate>
+            <Coordinate>25.2377696</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+          <CartesianPoint>
+            <Coordinate>-16.4321238</Coordinate>
+            <Coordinate>17.7856072</Coordinate>
+            <Coordinate>153.65</Coordinate>
+          </CartesianPoint>
+        </PolyLoop>
+      </PlanarGeometry>
+      <CADObjectId>Floor: ADSK_Пол_Условный_80 [983269]</CADObjectId>
+      <Name>X-S-5</Name>
+    </Surface>
+    <DaylightSavings>false</DaylightSavings>
+    <Name>Created from Revit</Name>
+  </Campus>
+  <DocumentHistory>
+    <ProgramInfo id="aim0004">
+      <CompanyName>Autodesk, Inc.</CompanyName>
+      <ProductName>Autodesk Revit 2022 BEES</ProductName>
+      <Version>2022 20210224_1515(x64)</Version>
+      <Platform>Microsoft Windows 10</Platform>
+      <ProjectEntity>
+        <URI>file:///C:/Users/vikto/OneDrive/Рабочий стол/Project3.rvt</URI>
+        <GUID entity="File">9e164244-32b6-4e62-b661-3a4e8b90b5bc</GUID>
+      </ProjectEntity>
+    </ProgramInfo>
+    <CreatedBy personId="aim0005" programId="aim0004" date="2022-12-28T17:36:04">
+      <CADModelId>9e164244-32b6-4e62-b661-3a4e8b90b5bc</CADModelId>
+    </CreatedBy>
+    <PersonInfo id="aim0005" />
+  </DocumentHistory>
+</gbXML>
