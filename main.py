@@ -99,10 +99,10 @@ def render_objects(
 
 if __name__ == "__main__":
     gbxml_filepath = input(
-        "Введите путь до gbXML файла (к примеру: /home/viktornikolaev/Downloads/Telegram Desktop/file.xml): "
+        "Введите путь до gbXML файла (к примеру: ./docs/test.xml): "
     )
     csv_filepath = input(
-        "Введите путь до csv файла (к примеру: /home/viktornikolaev/Downloads/Telegram Desktop/file.csv): "
+        "Введите путь до csv файла (к примеру: ./docs/test.csv): "
     )
     title = input("Введите подпись к рендеру объектов (к примеру: Test_BIM_FDS): ")
     picture_filename = input("Введите наименование сохраненной картинки рендера (к примеру: figure): ")
